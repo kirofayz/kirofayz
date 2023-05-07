@@ -19,8 +19,10 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kiro-fayz-73b23625a/" target="_blank"><img src="https://img.shields.io/badge/-Kero%20Fayez-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/Kero_f" target="_blank"><img src="https://img.shields.io/badge/-Kero%20Fayez-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.facebook.com/kiro.fayz.58?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Kero%20Fayez-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -30,12 +32,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-Mssql%20-05122A?style=flat&logo=MySQL)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp%20-05122A?style=flat&logo=C#)&nbsp;
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C)&nbsp;
+
 
 
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=kerolosfayez&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=kerolosfayez&style=for-the-badge">
 </a>
